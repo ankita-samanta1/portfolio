@@ -22,6 +22,7 @@ to apply analytical and problem-solving skills to real-world business problems.
 - Statistical Analysis
 - Natural Language Processing
 - MS Excel
+- Power BI
 
 ## Tools & Libraries
 - Prophet, Random Forest, LSTM
