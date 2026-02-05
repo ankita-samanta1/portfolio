@@ -10,7 +10,7 @@ to apply analytical and problem-solving skills to real-world business problems.
 
 ## Education
 - M.Sc. Data Science, St. Xavier’s College (Autonomous), Kolkata (2026)  
-  CGPA: 6.6/10 (till 2nd semester)
+  CGPA: 6.89/10 (till 3rd semester)
 
 - B.Sc. Mathematics (Hons.), St. Xavier’s College (Autonomous), Kolkata (2024)
 
